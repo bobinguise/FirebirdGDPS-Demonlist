@@ -123,6 +123,12 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p>
+                        All Demon Verifications At Or Above Hard Demon Requires Video Evidence.
+                    </p>
+                    <p>
+                        Don't be a dick.
+                    </p>
                 </div>
             </div>
         </main>
